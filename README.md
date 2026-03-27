@@ -1,17 +1,17 @@
-# Hi, I'm Bhumika Gautam 👋
+# Hi, I'm Bhumika Gautam 
 
-🎓 B.Tech CSE Student  
-🏫 VIT Bhopal University  
-📅 1st Year  
+ B.Tech CSE Student  
+ VIT Bhopal University  
+ 1st Year  
 
 ---
 
-## 🌟 About Me
+## About Me
 I am a first-year Computer Science student passionate about learning new technologies and building my digital skills. I am currently exploring programming, GitHub, and professional development.
 
 ---
 
-## 💻 Skills & Interests
+## Skills & Interests
 - Basic Programming
 - Problem Solving
 - Digital Literacy
@@ -19,7 +19,7 @@ I am a first-year Computer Science student passionate about learning new technol
 
 ---
 
-## 🚀 Goals
+## Goals
 - Improve coding skills
 - Build real-world projects
 - Gain internship experience
@@ -27,18 +27,18 @@ I am a first-year Computer Science student passionate about learning new technol
 
 ---
 
-## 📂 Current Work
+## Current Work
 - Digital Literacy Project
 - Learning GitHub and coding platforms
 
 ---
 
-## 📫 Contact
+## Contact
 - Email: bhumika.25bce10831@vitbhopal.ac.in 
 
 ---
 
-⭐ Thank you for visiting my profile!
+Thank you for visiting my profile!
 
 <!--
 **bhumika25bce10831/Bhumika25bce10831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
